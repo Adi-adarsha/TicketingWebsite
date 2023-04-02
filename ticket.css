@@ -1,0 +1,90 @@
+h1 {
+    font-size: 20px; 
+    letter-spacing: 2px; 
+    margin: 10px 0px;
+  }
+  
+  img {
+    width: 12%;
+    height: 40%;
+  }
+  
+  strong {
+      color: #2493df;
+  }
+  
+  ul li {
+      list-style-type: square;
+      list-style-position: inside;
+      padding-left: 30px;
+  }
+  
+  table {
+      border-collapse: collapse;
+  }
+  
+  th {
+      background-color: #2493df;
+      color: white;
+  }
+  
+  td, th {
+      border: 1px solid black;
+  }
+  
+  td, th, tr {
+      padding: 10px;
+  }
+  
+  label {
+      font-size: 16px;
+      font-weight: bold;
+  }
+  
+  section {
+      padding: 10px;
+      background-color: white;
+  }
+  
+  input[type="number"] {
+      padding: 2px;
+      text-align: center;
+      width: 50px;
+  }
+  
+  input[type="button"] {
+      background-color: #2493df;
+      font-weight: bold;
+      font-size: 16px;
+      color: white;
+      border: none;
+      margin-top: 3px;
+      height: 40px;
+      width: 100%;
+      border-radius: 1px;
+  }
+
+  #buy {
+      background-color: #687373;
+      margin-top: 10px;
+      color: #fcfcfc;
+      border-radius: 2px;
+      display: flex;
+      position: fixed;
+      bottom: 0px;
+      right: 0px;
+      width: 100%;
+      box-sizing: border-box; 
+  }
+  
+  .form-section {
+      flex: 1;
+  }
+  
+  footer {
+      font-size: 14px;
+      color: #595959;
+      text-align: center;
+      margin-top: 10px;
+  }
+  
